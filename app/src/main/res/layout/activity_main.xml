@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context="com.bryonnicoson.customedittext.MainActivity">
 
-    <EditText
+    <com.bryonnicoson.customedittext.EditTextWithClear
         android:id="@+id/my_edit_text"
         style="@style/Base.TextAppearance.AppCompat.Display1"
         android:layout_width="wrap_content"
